@@ -1,5 +1,0 @@
-av
-numpy 
-panda
-torch
-librosa
